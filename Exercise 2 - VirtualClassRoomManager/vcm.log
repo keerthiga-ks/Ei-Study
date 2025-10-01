@@ -1,0 +1,12 @@
+Oct 01, 2025 12:55:17 AM Main main
+INFO: Welcome to Virtual Classroom Manager
+Oct 01, 2025 12:58:55 AM Main main
+INFO: Exiting Virtual Classroom Manager
+Oct 01, 2025 1:33:52 AM Main main
+INFO: Welcome to Virtual Classroom Manager
+Oct 01, 2025 1:40:16 AM Main main
+WARNING: Student already exists: aaa
+Oct 01, 2025 1:40:29 AM Main main
+WARNING: Classroom does not exist: cs01
+Oct 01, 2025 1:44:30 AM Main main
+INFO: Exiting Virtual Classroom Manager
